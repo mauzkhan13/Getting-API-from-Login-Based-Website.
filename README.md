@@ -1,1 +1,1 @@
-# Geting-API-from-Login-Based-Website.
+# Getting-API-from-Login-Based-Website.
